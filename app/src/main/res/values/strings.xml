@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GlumciFinalVerzion</string>
+    <string name="fragment_master_action_create" />
+    <string name="fragment_detal_action_about" />
+    <string name="fragment_detal_action_settings">Settings</string>
+    <string name="fragment_detal_action_delete" />
+    <string name="fragment_detal_action_edit" />
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+</resources>
